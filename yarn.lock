@@ -160,10 +160,10 @@
     "@sentry/types" "6.19.7"
     tslib "^1.9.3"
 
-"@types/adm-zip@^0.5.0":
-  version "0.5.0"
-  resolved "https://registry.yarnpkg.com/@types/adm-zip/-/adm-zip-0.5.0.tgz#94c90a837ce02e256c7c665a6a1eb295906333c1"
-  integrity sha512-FCJBJq9ODsQZUNURo5ILAQueuA8WJhRvuihS3ke2iI25mJlfV2LK8jG2Qj2z2AWg8U0FtWWqBHVRetceLskSaw==
+"@types/adm-zip@^0.5.4":
+  version "0.5.4"
+  resolved "https://registry.yarnpkg.com/@types/adm-zip/-/adm-zip-0.5.4.tgz#cb7b24548612c947dd4c4744a1e22d21c806482f"
+  integrity sha512-/pYie/76O0TTqU4L/z1XqQ5mA5QvScaP/EO3lpH7iQ6/AjioYyuvi2IAmQeimuTTnytl03e9g8YFYkGV2Bxojw==
   dependencies:
     "@types/node" "*"
 
